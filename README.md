@@ -3,11 +3,11 @@
 
 Full Stack developer, coffe lover, JavaScript Fan. NodeJs Expert. Currently in love with React-Native and mobile Programming.
 
-🔭 I’m currently working on Prometeon Tyre Group
+- 🔭 I’m currently working on Prometeon Tyre Group
 
 I'm learning at the moment ReactNative and ReactJs.
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardobittante/)
 <!--
 Here are some ideas to get you started:
 
