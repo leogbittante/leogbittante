@@ -1,6 +1,6 @@
 # Hi there 👋, I am Leonardo
 
-Full Stack developer, coffe lover, JavaScript Fan. NodeJs Expert. Currently in love with React-Native and mobile Programming.
+Full Stack developer, coffe lover, JavaScript Fan. NodeJs Expert. Currently in love with React-Native and mobile Programming.\
 
 - 🔭 I’m currently working on Prometeon Tyre Group
 - 🌱 I'm currently learning at the moment **ReactNative and ReactJs.**
