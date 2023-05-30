@@ -1,5 +1,4 @@
-### Hi there 👋, I am Leonardo
-
+# Hi there 👋, I am Leonardo
 
 Full Stack developer, coffe lover, JavaScript Fan. NodeJs Expert. Currently in love with React-Native and mobile Programming.
 
