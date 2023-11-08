@@ -1,6 +1,6 @@
 # Hi there 👋, I am Leonardo
 
-Data Analyst, coffe lover, Python Fan. SKLearn Expert. Currently in love with Apache Spark and Big Data.\
+Data Analyst, coffe lover, Python Fan. SKLearn Expert. Currently in love with Apache Spark and Big Data.
 
 
 - 🔭 I’m currently working on Oggi Sorvetes
