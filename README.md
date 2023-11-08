@@ -3,9 +3,9 @@
 Data Analyst, coffe lover, Python Fan. Apahce Spark Expert. Currently in love with SKLearn and Big Data.\
 
 
-- 🔭 I’m currently working on Prometeon Tyre Group
-- 🌱 I'm currently learning at the moment **ReactNative and ReactJs.**
-- 🤝 I’m looking to collaborate on Full Stack and mobile projects.
+- 🔭 I’m currently working on Oggi Sorvetes
+- 🌱 I'm currently learning at the moment **Apache Spark.**
+- 🤝 I’m looking to collaborate on Big Data and Machine Learning projects.
 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardobittante/)
