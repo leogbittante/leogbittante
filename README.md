@@ -3,9 +3,9 @@
 Data Analyst, coffe lover, Python Fan. SKLearn Expert. Currently in love with Apache Spark and Big Data.
 
 
-- 🔭 I’m currently working on Oggi Sorvetes
-- 🌱 I'm currently learning at the moment **Apache Spark.**
-- 🤝 I’m looking to collaborate on Big Data and Machine Learning projects.
+- 🔭 I’m currently working at Oggi Sorvetes
+- 🌱 I'm currently learning on the moment **Android Development.**
+- 🤝 I’m looking to collaborate on Mobile Projects.
 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardobittante/)
