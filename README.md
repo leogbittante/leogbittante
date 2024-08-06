@@ -3,7 +3,6 @@
 Data Analyst, coffe lover, Python Fan. SKLearn Expert. Currently in love with Kotlin and Android Development.
 
 
-- 🔭 I’m currently working at Oggi Sorvetes
 - 🌱 I'm currently learning on the moment **Android Development.**
 - 🤝 I’m looking to collaborate on Mobile Projects.
 
